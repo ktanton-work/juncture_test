@@ -29,8 +29,8 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 _Saint Gregory's Commentary on Job_, or Moralia, sive Expositio in Job, sometimes called Moralia in Job or Magna Moralia, was written between 578 and 595, begun when Gregory was at the court of Tiberius II at Constantinople, but finished only after he had already been in Rome for several years.[^1] This manuscript was originally the second volume of a two-volume set containing the book of Job and Gregory the Great's Moralia in Job. The first volume of this set was probably Royal MS 13 C IV, which includes the Moralia in Job, books 1-16 but which was written by a different hand. A part of a later copy of the book of Job (ff. 1r-5v), written by an early 13th-century hand, has been associated with the original volume at an early period, as the 14th-century ownership inscription on f. 1r testifies (see Provenance). Lanfranc's (b. c. 1010, d. 1089) notes have been added at the end in the second half of the 12th century (f. 259r).
 <param ve-image 
        label="British Library Royal MS 6 C VI The Book of Job (24-42); Gregory the Great, Moralia in Job (books 17-35); Lanfranc's notes on Moralia in Job" 
-       description="Bernwardstür im Hildesheimer Dom, Niedersachsen/Deutschland" 
-       license="public domain" 
+       description="fol. 4v" 
+       license="https://www.bl.uk/help/how-to-reuse-images-of-unpublished-manuscripts" 
        url="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059911875.0x000001/manifest.json">
 
 ## Map
@@ -44,7 +44,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059911875.0x000001/manifest.json">
 <param ve-map center="Q36600" zoom="11">
 
 # References
