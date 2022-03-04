@@ -26,14 +26,12 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+_Moralia in Job_ iSaint Gregory's Commentary on Job, or Moralia, sive Expositio in Job, sometimes called Moralia in Job or Magna Moralia, was written between 578 and 595, begun when Gregory was at the court of Tiberius II at Constantinople, but finished only after he had already been in Rome for several years.[^1] This manuscript was originally the second volume of a two-volume set containing the book of Job and Gregory the Great's Moralia in Job. The first volume of this set was probably Royal MS 13 C IV, which includes the Moralia in Job, books 1-16 but which was written by a different hand. A part of a later copy of the book of Job (ff. 1r-5v), written by an early 13th-century hand, has been associated with the original volume at an early period, as the 14th-century ownership inscription on f. 1r testifies (see Provenance). Lanfranc's (b. c. 1010, d. 1089) notes have been added at the end in the second half of the 12th century (f. 259r).
 <param ve-image 
-       label="Hildesheim Bronze Doors" 
+       label="British Library Royal MS 6 C VI The Book of Job (24-42); Gregory the Great, Moralia in Job (books 17-35); Lanfranc's notes on Moralia in Job" 
        description="Bernwardstür im Hildesheimer Dom, Niedersachsen/Deutschland" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/f/f2/20141024_HildesheimCathedral_Niedersachsen_BernwardsTuer_DSCN0138_PtrQs.jpg">
+       url="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059911875.0x000001/manifest.json">
 
 ## Map
 
@@ -51,4 +49,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: Commentary on Job](https://en.wikipedia.org/wiki/Commentary_on_Job)
