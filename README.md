@@ -31,8 +31,8 @@ _Saint Gregory's Commentary on Job_, or Moralia, sive Expositio in Job, sometime
        label="British Library Royal MS 6 C VI The Book of Job (24-42); Gregory the Great, Moralia in Job (books 17-35); Lanfranc's notes on Moralia in Job" 
        description="fol. 4v" 
        license="https://www.bl.uk/help/how-to-reuse-images-of-unpublished-manuscripts" 
-       url="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059911875.0x000001/manifest.json">
- seq="10">
+       url="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059911875.0x000001/manifest.json"
+seq="23">
     
 
 ## Map
