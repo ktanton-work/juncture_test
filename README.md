@@ -32,6 +32,8 @@ _Saint Gregory's Commentary on Job_, or Moralia, sive Expositio in Job, sometime
        description="fol. 4v" 
        license="https://www.bl.uk/help/how-to-reuse-images-of-unpublished-manuscripts" 
        url="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100059911875.0x000001/manifest.json">
+ seq="10">
+    
 
 ## Map
 
