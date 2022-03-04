@@ -3,7 +3,7 @@ testing juncture
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Hildesheim bronze doors"
+       title="Biblical Commentaries"
        author="My test"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/f/f2/20141024_HildesheimCathedral_Niedersachsen_BernwardsTuer_DSCN0138_PtrQs.jpg" 
        layout="vertical">
